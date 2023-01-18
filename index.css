@@ -1,0 +1,55 @@
+
+ body{
+    color: #29A0B1; 
+    background-color: whitesmoke;
+    /* background-image: url("https://img.freepik.com/free-vector/composed-particles-swirling-abstract-graphics_456031-137.jpg?size=626&ext=jpg&ga=GA1.2.647461818.1673948679"); */
+    background-size: cover; 
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+   
+} 
+
+
+.form{
+    border: 5px dotted #167D7F;
+    border-radius: 50px;
+    margin-left: 1vw;
+    display: inline-block;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+input[type=text], 
+.first,
+ .last,
+ .date,
+ #department{
+    /* background-color: #98D7C2; */
+    border-radius: 3px;
+    border: 2px solid #167D7F;
+}
+
+.submit1{
+    display: flex;
+    justify-content: center;
+}
+
+.submit2{
+    font-size: large;
+}
+
+.table{
+    border: 2px solid black;
+    color: black;
+    text-align: center;
+    /* background-color: #29A0B1; */
+}
+
+
+
+ 
